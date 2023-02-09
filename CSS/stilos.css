@@ -8,6 +8,11 @@ body
     padding: 0;
 }
 
+#logo2
+{
+    width: 50%;
+}
+
 #cabecera
 {
     background: #37488b;
