@@ -16,5 +16,7 @@ con ellos.
 * El flujo de trabajo en GitHub
 * El verdadero amor por las buenas practicas
 * Creado por el asombroso equipo guerrero
+* Incluye ejemplos en diferentes sistemas operativos
+* Disponible para todas las edades
 
 Y como recordatorio, este es tan solo un ejemplo: 👌
