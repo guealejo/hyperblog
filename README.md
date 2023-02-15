@@ -15,5 +15,6 @@ con ellos.
 * Trucos realmente habilidosos para ser más rapidos
 * El flujo de trabajo en GitHub
 * El verdadero amor por las buenas practicas
+* Creado por el asombroso equipo guerrero
 
 Y como recordatorio, este es tan solo un ejemplo: 👌
